@@ -29,10 +29,10 @@
 ## 📝 سوالات موجود
 | شماره | نام سوال       | سطح سختی | کد سوال  | لینک سوال | لینک جواب          | آموزش حل در یوتیوب       |
 |-------|----------------|-----------|----------|-----------|---------------------|--------------------------|
-| 1     | سیگماگیر       | آسان      | 647      | [سوال](https://quera.ir/problemset/647) | [جواب](./Easy/647)       | [آموزش](https://youtu.be/example1) |
-| 2     | اول بینی       | متوسط     | 649      | [سوال](https://quera.ir/problemset/649) | [جواب](./Easy/649)       | [آموزش](https://youtu.be/example2) |
-| 3     | مساحت محصور    | سخت       | 9739     | [سوال](https://quera.ir/problemset/9739) | [جواب](./Medium/9739)    | [آموزش](https://youtu.be/example3) |
-| 4     | تعداد حالات    | متوسط     | 8888     | [سوال](https://quera.ir/problemset/8888) | [جواب](./Medium/8888)    | [آموزش](https://youtu.be/example4) |
+| 1     | سیگماگیر       | آسان      | 647      | [سوال](https://quera.ir/problemset/647) | [جواب](./Easy/647)       | [آموزش](https://www.youtube.com/watch?v=example1) |
+| 2     | اول بینی       | متوسط     | 649      | [سوال](https://quera.ir/problemset/649) | [جواب](./Easy/649)       | [آموزش](https://www.youtube.com/watch?v=example2) |
+| 3     | مساحت محصور    | سخت       | 9739     | [سوال](https://quera.ir/problemset/9739) | [جواب](./Medium/9739)    | [آموزش](https://www.youtube.com/watch?v=example3) |
+| 4     | تعداد حالات    | متوسط     | 8888     | [سوال](https://quera.ir/problemset/8888) | [جواب](./Medium/8888)    | [آموزش](https://www.youtube.com/watch?v=example4) |
 
 ---
 
@@ -48,9 +48,9 @@
 ---
 
 ## 🔗 لینک‌های مرتبط
-- [سایت کوئرا]([https://quera.ir/](https://quera.org/))
-- [چنل یوتیوب پروژه]([https://youtube.com/sheikh_python](https://www.youtube.com/@sheikh_python/featured))
-- [صفحه گیت‌هاب]([https://github.com/sheikh-python](https://github.com/sheikh-python))
+- [سایت کوئرا](https://quera.org/)
+- [چنل یوتیوب پروژه](https://www.youtube.com/@sheikh_python/featured)
+- [صفحه گیت‌هاب](https://github.com/sheikh-python)
 
 ---
 
