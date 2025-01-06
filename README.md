@@ -29,10 +29,10 @@
 ## 📝 سوالات موجود
 | شماره | نام سوال       | سطح سختی | کد سوال  | لینک سوال | لینک جواب          | آموزش حل در یوتیوب       |
 |-------|----------------|-----------|----------|-----------|---------------------|--------------------------|
-| 1     | سیگماگیر       | آسان      | 647      | [سوال](https://quera.ir/problemset/647) | [جواب](./Easy/647)       | [آموزش](https://www.youtube.com/watch?v=example1) |
-| 2     | اول بینی       | متوسط     | 649      | [سوال](https://quera.ir/problemset/649) | [جواب](./Easy/649)       | [آموزش](https://www.youtube.com/watch?v=example2) |
-| 3     | مساحت محصور    | سخت       | 9739     | [سوال](https://quera.ir/problemset/9739) | [جواب](./Medium/9739)    | [آموزش](https://www.youtube.com/watch?v=example3) |
-| 4     | تعداد حالات    | متوسط     | 8888     | [سوال](https://quera.ir/problemset/8888) | [جواب](./Medium/8888)    | [آموزش](https://www.youtube.com/watch?v=example4) |
+| 1     | ماکزیمم       | ساده      | 588      | [سوال](https://quera.org/problemset/588) | [جواب](./Easy/647)       | [آموزش](https://www.youtube.com/watch?v=AvYIqBl8BOM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=2) |
+| 2     | اعداد‌فیثاغورسی       | متوسط     | 280      | [سوال](https://quera.org/problemset/280) | [جواب](./Easy/649)       | [آموزش](https://www.youtube.com/watch?v=Cg8CbwkbPfU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=3) |
+| 3     | کامل‌بودن یا نبودن    | ساده       | 282     | [سوال](https://quera.org/problemset/282) | [جواب](./Medium/9739)    | [آموزش](https://www.youtube.com/watch?v=EcUUGeRAqnM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=4) |
+| 4     | اعداد اول    | ساده     | 293     | [سوال](https://quera.org/problemset/293) | [جواب](./Medium/8888)    | [آموزش](https://www.youtube.com/watch?v=yXodMi03ea4&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=5&t=15s) |
 
 ---
 
