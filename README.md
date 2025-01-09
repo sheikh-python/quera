@@ -30,9 +30,9 @@
 | شماره | نام سوال       | سطح سختی | کد سوال  | لینک سوال | لینک جواب          | آموزش حل در یوتیوب       |
 |-------|----------------|-----------|----------|-----------|---------------------|--------------------------|
 | 1     | ماکزیمم       | ساده      | 588      | [سوال](https://quera.org/problemset/588) | [جواب](Easy/588-Maximum)       | [آموزش](https://www.youtube.com/watch?v=AvYIqBl8BOM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=2) |
-| 2     | اعداد‌فیثاغورسی       | متوسط     | 280      | [سوال](https://quera.org/problemset/280) | [جواب](Medium/280-Pythagorean Numbers)       | [آموزش](https://www.youtube.com/watch?v=Cg8CbwkbPfU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=3) |
-| 3     | کامل‌بودن یا نبودن    | ساده       | 282     | [سوال](https://quera.org/problemset/282) | [جواب](Easy/282-Perfect or Imperfect Numbers)    | [آموزش](https://www.youtube.com/watch?v=EcUUGeRAqnM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=4) |
-| 4     | اعداد اول    | ساده     | 293     | [سوال](https://quera.org/problemset/293) | [جواب](Easy/293-Prime Numbers)    | [آموزش](https://www.youtube.com/watch?v=yXodMi03ea4&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=5&t=15s) |
+| 2     | اعداد‌فیثاغورسی       | متوسط     | 280      | [سوال](https://quera.org/problemset/280) | [جواب](Medium/280-Pythagorean-Numbers)       | [آموزش](https://www.youtube.com/watch?v=Cg8CbwkbPfU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=3) |
+| 3     | کامل‌بودن یا نبودن    | ساده       | 282     | [سوال](https://quera.org/problemset/282) | [جواب](Easy/282-Perfect-or-Imperfect-Numbers)    | [آموزش](https://www.youtube.com/watch?v=EcUUGeRAqnM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=4) |
+| 4     | اعداد اول    | ساده     | 293     | [سوال](https://quera.org/problemset/293) | [جواب](Easy/293-Prime-Numbers)    | [آموزش](https://www.youtube.com/watch?v=yXodMi03ea4&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=5&t=15s) |
 
 ---
 
