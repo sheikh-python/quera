@@ -33,6 +33,9 @@
 | 2     | اعداد‌فیثاغورسی       | متوسط     | 280      | [سوال](https://quera.org/problemset/280) | [جواب](Medium/280-Pythagorean-Numbers)       | [آموزش](https://www.youtube.com/watch?v=Cg8CbwkbPfU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=3) |
 | 3     | کامل‌بودن یا نبودن    | ساده       | 282     | [سوال](https://quera.org/problemset/282) | [جواب](Easy/282-Perfect-or-Imperfect-Numbers)    | [آموزش](https://www.youtube.com/watch?v=EcUUGeRAqnM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=4) |
 | 4     | اعداد اول    | ساده     | 293     | [سوال](https://quera.org/problemset/293) | [جواب](Easy/293-Prime-Numbers)    | [آموزش](https://www.youtube.com/watch?v=yXodMi03ea4&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=5&t=15s) |
+| 5     | توان دو    | ساده     | 616     | [سوال](https://quera.org/problemset/616) | [جواب](Easy/616-power-two)    | [آموزش](https://www.youtube.com/watch?v=C4TwSPvs808&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=6) |
+| 6     | عدد خودمقلوب    | ساده     | 617     | [سوال](https://quera.org/problemset/617) | [جواب](Easy/617-khod-maghlob)    | [آموزش](https://www.youtube.com/watch?v=7lynOZI5bPE&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=7) |
+| 7     | فاکتوریل    | ساده     | 589     | [سوال](https://quera.org/problemset/589) | [جواب](Easy/589-factorial)    | [آموزش](https://www.youtube.com/watch?v=Ok3uhvMgbHk&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=8) |
 
 ---
 
