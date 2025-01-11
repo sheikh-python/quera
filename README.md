@@ -37,6 +37,7 @@
 | 6     | عدد خودمقلوب    | ساده     | 617     | [سوال](https://quera.org/problemset/617) | [جواب](Easy/617-khod-maghlob)    | [آموزش](https://www.youtube.com/watch?v=7lynOZI5bPE&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=7) |
 | 7     | فاکتوریل    | ساده     | 589     | [سوال](https://quera.org/problemset/589) | [جواب](Easy/589-factorial)    | [آموزش](https://www.youtube.com/watch?v=Ok3uhvMgbHk&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=8) |
 | 8     | تاریخ تولد    | متوسط     | 615     | [سوال](https://quera.org/problemset/615) | [جواب](Medium/615-date-of-birth)    | [آموزش](https://www.youtube.com/watch?v=uUbIdyG5sho&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=10) |
+| 9     | سوال زرد    | ساده     | 3537     | [سوال](https://quera.org/problemset/3537) | [جواب](Easy/3537-yellow-question)    | [آموزش](https://www.youtube.com/watch?v=ZIt-u6oSeYo&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=10&pp=gAQBiAQB) |
 
 
 ---
