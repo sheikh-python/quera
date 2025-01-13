@@ -40,6 +40,7 @@
 | 9     | سوال زرد    | ساده     | 3537     | [سوال](https://quera.org/problemset/3537) | [جواب](Easy/3537-yellow-question)    | [آموزش](https://www.youtube.com/watch?v=ZIt-u6oSeYo&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=10&pp=gAQBiAQB) |
 | 10     | یک سوال ساده    | ساده     | 2885     | [سوال](https://quera.org/problemset/2885) | [جواب](Easy/2885-a-simple-question)    | [آموزش](https://www.youtube.com/watch?v=UDS3ljHx82s&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=gAQBiAQB) |
 | 11     | یخدارچی    | ساده     | 3429     | [سوال](https://quera.org/problemset/3429) | [جواب](Easy/3429-yakhdar-chi)    | [آموزش](https://www.youtube.com/watch?v=WOy8wmbDYFM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=iAQB) |
+| 12     | مشق امشب باقر    | متوسط     | 10230     | [سوال](https://quera.org/problemset/10230) | [جواب](Medium/10230-mashgh-emshabe-bagher)    | [آموزش](https://www.youtube.com/watch?v=qWQ9fOHl7CI&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=12&pp=iAQB) |
 
 ---
 
