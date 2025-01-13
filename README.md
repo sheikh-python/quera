@@ -39,11 +39,7 @@
 | 8     | تاریخ تولد    | متوسط     | 615     | [سوال](https://quera.org/problemset/615) | [جواب](Medium/615-date-of-birth)    | [آموزش](https://www.youtube.com/watch?v=uUbIdyG5sho&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=10) |
 | 9     | سوال زرد    | ساده     | 3537     | [سوال](https://quera.org/problemset/3537) | [جواب](Easy/3537-yellow-question)    | [آموزش](https://www.youtube.com/watch?v=ZIt-u6oSeYo&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=10&pp=gAQBiAQB) |
 | 10     | یک سوال ساده    | ساده     | 2885     | [سوال](https://quera.org/problemset/2885) | [جواب](Easy/2885-a-simple-question)    | [آموزش](https://www.youtube.com/watch?v=UDS3ljHx82s&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=gAQBiAQB) |
-<<<<<<< HEAD
-| 11     | یخدارچی    | ساده     | 3429     | [سوال](https://quera.org/problemset/3429) | [جواب](Easy/2885-a-simple-question)    | [آموزش](https://www.youtube.com/watch?v=UDS3ljHx82s&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=gAQBiAQB) |
-=======
-
->>>>>>> 21c5660ec90989890c33294cc012f9630564e660
+| 11     | یخدارچی    | ساده     | 3429     | [سوال](https://quera.org/problemset/3429) | [جواب](Easy/3429-yakhdar-chi)    | [آموزش](https://www.youtube.com/watch?v=WOy8wmbDYFM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=iAQB) |
 
 ---
 
