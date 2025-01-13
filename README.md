@@ -41,6 +41,7 @@
 | 10     | یک سوال ساده    | ساده     | 2885     | [سوال](https://quera.org/problemset/2885) | [جواب](Easy/2885-a-simple-question)    | [آموزش](https://www.youtube.com/watch?v=UDS3ljHx82s&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=gAQBiAQB) |
 | 11     | یخدارچی    | ساده     | 3429     | [سوال](https://quera.org/problemset/3429) | [جواب](Easy/3429-yakhdar-chi)    | [آموزش](https://www.youtube.com/watch?v=WOy8wmbDYFM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=11&pp=iAQB) |
 | 12     | مشق امشب باقر    | متوسط     | 10230     | [سوال](https://quera.org/problemset/10230) | [جواب](Medium/10230-mashgh-emshabe-bagher)    | [آموزش](https://www.youtube.com/watch?v=qWQ9fOHl7CI&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=12&pp=iAQB) |
+| 13     | تک رقمی    | متوسط     | 3539     | [سوال](https://quera.org/problemset/3539) | [جواب](Medium/3539-tak-raghami)    | [آموزش](https://www.youtube.com/watch?v=H8A-VMBo-Bc&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=13&pp=iAQB) |
 
 ---
 
