@@ -43,6 +43,8 @@
 | 12     | مشق امشب باقر    | متوسط     | 10230     | [سوال](https://quera.org/problemset/10230) | [جواب](Medium/10230-mashgh-emshabe-bagher)    | [آموزش](https://www.youtube.com/watch?v=qWQ9fOHl7CI&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=12&pp=iAQB) |
 | 13     | تک رقمی    | متوسط     | 3539     | [سوال](https://quera.org/problemset/3539) | [جواب](Medium/3539-tak-raghami)    | [آموزش](https://www.youtube.com/watch?v=H8A-VMBo-Bc&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=13&pp=iAQB) |
 | 14     | جدول ضرب گنده    | ساده     | 3409     | [سوال](https://quera.org/problemset/3409) | [جواب](Easy/3409-jadval-zarb-gonde)    | [آموزش](https://www.youtube.com/watch?v=W2Ddr1rwK2M&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=14&pp=iAQB) |
+| 15     | روز‌آزادی بیان در برره    | ساده     | 10162     | [سوال](https://quera.org/problemset/10162) | [جواب](Easy/10162-roz-azadi-bayan-barareh)    | [آموزش](https://www.youtube.com/watch?v=W2Ddr1rwK2M&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=14&pp=iAQB) |
+
 
 ---
 
