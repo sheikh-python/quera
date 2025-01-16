@@ -44,6 +44,7 @@
 | 13     | تک رقمی    | متوسط     | 3539     | [سوال](https://quera.org/problemset/3539) | [جواب](Medium/3539-tak-raghami)    | [آموزش](https://www.youtube.com/watch?v=H8A-VMBo-Bc&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=13&pp=iAQB) |
 | 14     | جدول ضرب گنده    | ساده     | 3409     | [سوال](https://quera.org/problemset/3409) | [جواب](Easy/3409-jadval-zarb-gonde)    | [آموزش](https://www.youtube.com/watch?v=W2Ddr1rwK2M&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=14&pp=iAQB) |
 | 15     | روز‌آزادی بیان در برره    | ساده     | 10162     | [سوال](https://quera.org/problemset/10162) | [جواب](Easy/10162-roz-azadi-bayan-barareh)    | [آموزش](https://www.youtube.com/watch?v=1X1MXFlwouA&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=15&pp=iAQB) |
+| 16     | عدد چاپ کن    | سخت     | 9774     | [سوال](https://quera.org/problemset/9774) | [جواب](Hard/9774-adad-chap-kon)    | [آموزش](https://www.youtube.com/watch?v=281R7hf-kI8&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=16&pp=iAQB) |
 
 
 ---
