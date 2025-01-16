@@ -45,7 +45,7 @@
 | 14     | جدول ضرب گنده    | ساده     | 3409     | [سوال](https://quera.org/problemset/3409) | [جواب](Easy/3409-jadval-zarb-gonde)    | [آموزش](https://www.youtube.com/watch?v=W2Ddr1rwK2M&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=14&pp=iAQB) |
 | 15     | روز‌آزادی بیان در برره    | ساده     | 10162     | [سوال](https://quera.org/problemset/10162) | [جواب](Easy/10162-roz-azadi-bayan-barareh)    | [آموزش](https://www.youtube.com/watch?v=1X1MXFlwouA&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=15&pp=iAQB) |
 | 16     | عدد چاپ کن    | سخت     | 9774     | [سوال](https://quera.org/problemset/9774) | [جواب](Hard/9774-adad-chap-kon)    | [آموزش](https://www.youtube.com/watch?v=281R7hf-kI8&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=16&pp=iAQB) |
-| 17     | چاپ برعکس    | سخت     | 3405     | [سوال](https://quera.org/problemset/3405) | [جواب](Easy/3405-chap-bar-aks)    | [آموزش](https://www.youtube.com/watch?v=NA-8EViKrVU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=17&t=397s&pp=iAQB) |
+| 17     | چاپ برعکس    | ساده     | 3405     | [سوال](https://quera.org/problemset/3405) | [جواب](Easy/3405-chap-bar-aks)    | [آموزش](https://www.youtube.com/watch?v=NA-8EViKrVU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=17&t=397s&pp=iAQB) |
 
 
 ---
