@@ -47,6 +47,7 @@
 | 16     | عدد چاپ کن    | سخت     | 9774     | [سوال](https://quera.org/problemset/9774) | [جواب](Hard/9774-adad-chap-kon)    | [آموزش](https://www.youtube.com/watch?v=281R7hf-kI8&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=16&pp=iAQB) |
 | 17     | چاپ برعکس    | ساده     | 3405     | [سوال](https://quera.org/problemset/3405) | [جواب](Easy/3405-chap-bar-aks)    | [آموزش](https://www.youtube.com/watch?v=NA-8EViKrVU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=17&t=397s&pp=iAQB) |
 | 18     | دونقطه خط    | ساده     | 3414     | [سوال](https://quera.org/problemset/3414) | [جواب](Easy/3414-2-noghte-khat)    | [آموزش](https://www.youtube.com/watch?v=4QZIhLxNJsU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=18&pp=iAQB) |
+| 19     | چاپ مربع    | ساده     | 591     | [سوال](https://quera.org/problemset/591) | [جواب](Easy/591-chap-moraba)    | [آموزش](https://www.youtube.com/watch?v=dkAh62syBIY&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=19&pp=iAQB) |
 
 
 
