@@ -49,6 +49,7 @@
 | 18     | دونقطه خط    | ساده     | 3414     | [سوال](https://quera.org/problemset/3414) | [جواب](Easy/3414-2-noghte-khat)    | [آموزش](https://www.youtube.com/watch?v=4QZIhLxNJsU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=18&pp=iAQB) |
 | 19     | چاپ مربع    | ساده     | 591     | [سوال](https://quera.org/problemset/591) | [جواب](Easy/591-chap-moraba)    | [آموزش](https://www.youtube.com/watch?v=dkAh62syBIY&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=19&pp=iAQB) |
 | 20     | همایش زندگی بهتر    | ساده     | 10325     | [سوال](https://quera.org/problemset/10325) | [جواب](Easy/10325-hamayesh-zendegi-behtar)    | [آموزش](https://www.youtube.com/watch?v=tBSQAG8KTGc&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=20&pp=iAQB) |
+| 21     | خر درچمن فراوونه!    | ساده     | 4065     | [سوال](https://quera.org/problemset/4065) | [جواب](Easy/4065-khar-dar-chaman-faravone)    | [آموزش](https://www.youtube.com/watch?v=YzKozW__9Fg&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=21&pp=iAQB) |
 
 
 
