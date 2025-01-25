@@ -52,6 +52,7 @@
 | 21     | خر درچمن فراوونه!    | ساده     | 4065     | [سوال](https://quera.org/problemset/4065) | [جواب](Easy/4065-khar-dar-chaman-faravone)    | [آموزش](https://www.youtube.com/watch?v=YzKozW__9Fg&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=21&pp=iAQB) |
 | 22     | ام سین    | ساده     | 28974     | [سوال](https://quera.org/problemset/28974) | [جواب](Easy/28974-em-sin)    | [آموزش](https://www.youtube.com/watch?v=KKx3XH5clKM&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=22&pp=iAQB) |
 | 23     | آسمان شکرآباد    | ساده     | 6082     | [سوال](https://quera.org/problemset/6082) | [جواب](Easy/6082-asman-shekar-abad)    | [آموزش](https://www.youtube.com/watch?v=Ngd6x3g8FRU&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=23&pp=iAQB) |
+| 24     | اول بینی    | متوسط      | 649     | [سوال](https://quera.org/problemset/649) | [جواب](Medium/649-aval-bini)    | [آموزش](https://www.youtube.com/watch?v=MSCZmJhOGMo&list=PLW3DifA5LBkXWMQA9aXQUyswMww-W6XSC&index=24&t=16s&pp=iAQB) |
 
 
 
